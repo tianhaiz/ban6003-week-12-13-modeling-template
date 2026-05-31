@@ -10,17 +10,21 @@ Complete:
 
 `module12_linear_regression_guided_lab.ipynb`
 
-## GitHub Classroom Assignment Link
 
-Canvas will provide the GitHub Classroom invitation link for this Module 12-13 assignment package:
+## GitHub Repository and Running Environment
 
-**GitHub Classroom invitation link:** [to be added]
+Start from this public template repository:
 
-Click the invitation link, sign in to GitHub, and accept the assignment. If this is your first GitHub Classroom assignment for the course, GitHub may ask you to authorize GitHub Classroom and match your GitHub account to the course roster. Choose your own name or identifier carefully.
+https://github.com/tianhaiz/ban6003-week-12-13-modeling-template
 
-After you accept, wait for GitHub Classroom to create your personal assignment repository. Open the repository link shown on the confirmation page. If you see a repository access message, check the GitHub notifications inbox in the upper-right corner of GitHub, or go to `https://github.com/notifications`, and accept any pending repository or organization invitation from GitHub Classroom. You may also receive an email from GitHub with the same invitation.
+Create your own GitHub repository from the template with **Use this template > Create a new repository**. I recommend making your repository public so the instructor can inspect your submission. If you use a private repository, invite the instructor GitHub account `zzz1990771` or the email `zzz1990771@gmail.com` as a collaborator.
 
-Once you can see your personal assignment repository, open it in Codespaces with **Code > Codespaces > Create codespace on main**.
+You may run the lab in either environment:
+
+- **Recommended for beginners:** GitHub Codespaces from your own repository.
+- **Local option:** clone your own repository, activate the `ban6003` conda environment, install `requirements.txt`, and run JupyterLab locally.
+
+Submit your GitHub repository link or a completed ZIP through Canvas.
 
 ## What You Will Practice
 
@@ -28,7 +32,7 @@ You will practice loading an ABT, choosing a numeric target, selecting feature v
 
 ## Recommended Workflow
 
-1. Open the notebook in GitHub Codespaces.
+1. Open the notebook in Codespaces or local Jupyter.
 2. Run the setup cells.
 3. Load the flight-level ABT.
 4. Define the target and features.
@@ -36,7 +40,7 @@ You will practice loading an ABT, choosing a numeric target, selecting feature v
 6. Fit the linear regression model.
 7. Generate predictions and calculate metrics.
 8. Complete the final practice and reflection.
-9. Save, commit, and push your work.
+9. Save your work, then commit and push if using GitHub.
 
 ## Modeling Note
 
